@@ -1,0 +1,35 @@
+﻿ body {
+      background-image: url('background.jpg');
+      background-size: 100% 100%;
+    }
+
+h1{
+  color: gray;
+  font-family: cursive;
+}
+
+h1:hover{
+  font-size: 30px;
+}
+
+p{
+  color: gray;
+  font-family: cursive;
+}
+
+a{
+  color: black;
+  font-family: cursive;
+}
+
+button{
+  background-color: transparent;
+  color: gray;
+  font-family: cursive;
+  border: none;
+  cursor: pointer;
+}
+
+footer{
+  text-align: center;
+}
